@@ -1,0 +1,8 @@
+library simpledoughnutgraph;
+
+
+class SimpleDoughnutGraph {
+  
+}
+
+
